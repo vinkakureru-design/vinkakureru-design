@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah pengembangan Web berbasis .NET yang juga sebagai bahasa utama saya.<br>Suka git push kalo kode udah bisa jalan.
+Saya adalah pengembangan Web berbasis .NET yang juga sebagai bahasa utama saya.<br>Suka git push kalo kode udah bisa jalan. <br> Iya, Saya Wibu. gausah nanya
 
 
 # 💻 Tech Stack:
