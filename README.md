@@ -1,3 +1,5 @@
+<div style="color: #827282">Halo</div>
+
 # 💫 About Me:
 Siswa dengan keahlian pengembangan .NET Developer. <br>
 
